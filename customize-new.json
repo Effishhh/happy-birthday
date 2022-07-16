@@ -1,8 +1,8 @@
 {
   "greeting": "Hiya",
   "name": "Babe",
-  "greetingText": "I miss you so much",
-  "wishText": "May the happiness always be with you! ;)",
+  "greetingText": "I miss you so much 每天都很想很想你🥺",
+  "wishText": "May the happiness always be with you! 🥳 ",
   "imagePath": "img/photo2.png",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Mua~",
@@ -19,5 +19,5 @@
   "wishHeading": "Happy Birthday!",
   "outroText": "Love you.",
   "replayText": "Do you like it?.",
-  "outroSmiley": ":)"
+  "outroSmiley": "🥰"
 }
